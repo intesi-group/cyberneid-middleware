@@ -1,0 +1,10 @@
+{
+  "macosx": {
+    "ver": "1.3.8.9",
+    "file": "https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.8.9/CyberMW-1.3.8.9.pkg"
+  },
+  "windows": {
+    "ver": "1.3.8.9",
+    "file": "https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.8.9/CyberneidMWSetup-1.3.8.9.exe"
+  }
+}
