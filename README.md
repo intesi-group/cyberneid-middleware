@@ -1,16 +1,16 @@
 # File del Cyber Middleware
-Su piattaforme windows il Cyber Middleware è implementato nella dll `cybermw.dll` presente nella cartella `System32`
+Su piattaforme windows il Cyber Middleware è implementato nella dll `cybermw.dll` presente nella cartella `System32`.
 
-Su piattaforme MacOS il cyber middleware PKCS#11 è implementato nello shared object `libcybermw.dylib` presente nella cartella `/Library/Cyberneid/Middleware`
+Su piattaforme MacOS il cyber middleware PKCS#11 è implementato nello shared object `libcybermw.dylib` presente nella cartella `/Library/Cyberneid/Middleware`.
 
-Il CryptoTokenKit è implementato nell’applicazione CNSApp, presente nella cartella /Applications/Utilities, che all’interno esporta il modulo CNSToken.appex
+Il CryptoTokenKit è implementato nell’applicazione CNSApp, presente nella cartella `/Applications/Utilities`, che all’interno esporta il modulo CNSToken.appex.
 
 # Interfaccia PKCS#11
 L’interfaccia PKCS#11 implementata è conforme alle specifiche PKCS#11v. 2.20
 Il contesto applicativo del PKCS#11 è limitato ai seguenti scenari di utilizzo:
-1) autenticazione HTTPS/TLS1.2 con Mozilla Firefox
-2) funzione di “Firma Digitale QSCD” per applicazioni di firma digitale
-3) funzione di enrollment di credenziali di firma digitale mediante apposita Certification Authority
+1. autenticazione HTTPS/TLS1.2
+2. funzione di “Firma Digitale QSCD” per applicazioni di firma digitale
+3. funzione di enrollment di credenziali di firma digitale mediante apposita Certification Authority
 
 Sistemi operativi supportati:
 - Windows 7, 8, 8.1, 10, 11
@@ -35,3 +35,7 @@ MacOS
 https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.8.9/CyberMW-1.3.8.9.pkg
 - Portable: `libcybermw.dylib`  
 https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.8.9/libcybermw.dylib
+
+# ATR
+
+I dispositivi FirmaQUI (smart card e token USB) sono caratterizzati dal seguente ATR: `3BDB18FF81B1FE451FC38073C8211065434E53107339`.
