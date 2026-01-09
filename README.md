@@ -38,4 +38,6 @@ https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.9.13
 
 # ATR
 
-I dispositivi FirmaQUI (smart card e token USB) sono caratterizzati dal seguente ATR: `3BDB18FF81B1FE451FC38073C8211065434E53107339`.
+I dispositivi FirmaQUI (smart card e token USB) sono caratterizzati dai seguente ATR: 
+- `3BDB18FF81B1FE451FC38073C8211065434E53107339`
+- `3BDB18FF8191FE1FC38073C8211065434E5310735C`.
