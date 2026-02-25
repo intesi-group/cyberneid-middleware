@@ -14,7 +14,7 @@ Il contesto applicativo del PKCS#11 è limitato ai seguenti scenari di utilizzo:
 
 Sistemi operativi supportati:
 - Windows 7, 8, 8.1, 10, 11
-- MacOS 13.x e 14.x
+- MacOS 10.15 (Catalina) o superiori
 
 # Installazione
 Per installare il middleware occorre scaricare e lanciare il pacchetto di setup relativo al sistema operativo sul quale si vuole installare.
