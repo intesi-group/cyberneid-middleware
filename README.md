@@ -22,19 +22,14 @@ Il pacchetto di setup installerà in pochi secondi il software sulla postazione.
 
 Windows
 -
-- Setup: `CyberneidMWSetup-1.3.9.13.exe`  
-https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.9.13/CyberneidMWSetup-1.3.9.13.exe
-- Portable 64bit: `cybermw_64.dll`  
-https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.9.13/cybermw_64.dll
-- Portable 32bit: `cybermw_32.dll`  
-https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.9.13/cybermw_32.dll
+- Setup: [CyberneidMWSetup-1.3.10.2.exe](https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.10.2/CyberneidMWSetup-1.3.10.2.exe)
+- Portable 64bit: [cybermw_64.dll](https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.10.2/cybermw_64.dll)  
+- Portable 32bit: [cybermw_32.dll](https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.10.2/cybermw_32.dll)  
 
 MacOS - UNIVERSAL
 -
-- Setup: `CyberneidMW-1.3.9.13.pkg`  
-https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.9.13/CyberMW-1.3.9.13.pkg
-- Portable: `libcybermw.dylib`  
-https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.9.13/libcybermw.dylib
+- Setup: [CyberMW-1.3.10.2b.pkg](https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.10.2/CyberMW-1.3.10.2b.pkg)  
+- Portable: [libcybermw.dylib](https://github.com/intesi-group/cyberneid-middleware/releases/download/v1.3.10.2/libcybermw.dylib)
 
 # ATR
 
