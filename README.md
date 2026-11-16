@@ -1,4 +1,4 @@
-# File del Cyber Middleware
+# File del CyberMiddleware
 Su piattaforme windows il Cyber Middleware è implementato nella dll `cybermw.dll` presente nella cartella `System32`.
 
 Su piattaforme MacOS il cyber middleware PKCS#11 è implementato nello shared object `libcybermw.dylib` presente nella cartella `/Library/Cyberneid/Middleware`.
@@ -36,3 +36,7 @@ MacOS - UNIVERSAL
 I dispositivi FirmaQUI (smart card e token USB) sono caratterizzati dai seguente ATR: 
 - `3BDB18FF81B1FE451FC38073C8211065434E53107339`
 - `3BDB18FF8191FE1FC38073C8211065434E5310735C`.
+
+# CyberMiddleware — materiali e repository LGPL 2.1
+
+Link: [cyberneid repository](https://nextcloud.cyberneid.com/index.php/s/r8Ko7xNGALG4eqB?opendetails=)
